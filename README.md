@@ -1,5 +1,3 @@
-# eda-analysis-kaggle-2022
-
 # Welcome to Kaggle's annual Machine Learning and Data Science Survey competition! 
 This year, as in 2017, 2018, 2019, 2020, and 2021, we set out to conduct an industry-wide survey that presents a truly comprehensive view of the state of data science and machine learning. The survey was live from 09/16/2022 to 10/16/2022, and after cleaning the data we finished with 23,997 responses!
 
